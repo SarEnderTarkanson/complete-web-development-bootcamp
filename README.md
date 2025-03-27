@@ -1,4 +1,4 @@
-# 🚀 Angela Yu's Web Development Bootcamp – Exercises & Projects  
+# 🚀 Web Development Bootcamp (Udemy) – Exercises & Projects  
 
 Welcome to my **Web Development Bootcamp Repository**! This repository contains all the exercises, projects, and hands-on coding tasks that I’ll be completing as part of **Angela Yu’s bestseller Web Development Bootcamp on Udemy**.  
 
